@@ -15,4 +15,5 @@ type:
     djb+tab for block statement statement boilerplate
     inc+tab for include statement boilerplate
     
+ ![Basic Usage](https://user-images.githubusercontent.com/62484394/143801118-0a0e231c-8921-4329-8281-a2becf1c820c.gif)
     
