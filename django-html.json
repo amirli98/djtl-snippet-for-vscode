@@ -1,0 +1,37 @@
+{
+"Django Template If Statement": {
+	"prefix": "djif",
+	"body": [
+		"{% if $1 %}",
+		"\t$0",
+		"{% endif %}"
+	]
+},
+"Django Template For Loop": {
+    "prefix": "djf",
+    "body": [
+        "{% for $1 in $2 %}",
+        "\t$0",
+        "{% enfor %}"
+    ]
+},
+"Django Template Load": {
+    "prefix": "djl",
+    "body": "{% load $1 %}"
+},
+"Django Template Extends": {
+    "prefix": "dje",
+    "body": "{% extends \"$1\" %}"
+},
+"Django Template Block": {
+    "prefix": "djb",
+    "body": [
+        "{% block $1 %}\t$0{% endblock $1 %}"
+    ]
+},
+
+"Django Template Include": {
+	"prefix": "inc",
+	"body": "{% include \"$1\" %}"
+}
+}
