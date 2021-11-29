@@ -8,12 +8,12 @@ In visual studio code for windows go to File->Preferences->User Snippets. In the
 
 With this snippet, in django template, you can use shorthand codes for quick code help 
 type:
-    djif+tab for if statement boilerplate
-    djf+tab for for loop boilerplate
-    djl+tab for load statement boilerplate
-    dje+tab for extends statement boilerplate
-    djb+tab for block statement statement boilerplate
-    inc+tab for include statement boilerplate
+    djif+tab for if statement boilerplate<br>
+    djf+tab for for loop boilerplate<br>
+    djl+tab for load statement boilerplate<br>
+    dje+tab for extends statement boilerplate<br>
+    djb+tab for block statement statement boilerplate<br>
+    inc+tab for include statement boilerplate<br>
     
  ![Basic Usage](https://user-images.githubusercontent.com/62484394/143801118-0a0e231c-8921-4329-8281-a2becf1c820c.gif)
     
