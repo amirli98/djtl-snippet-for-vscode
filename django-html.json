@@ -12,7 +12,7 @@
     "body": [
         "{% for $1 in $2 %}",
         "\t$0",
-        "{% enfor %}"
+        "{% endfor %}"
     ]
 },
 "Django Template Load": {
